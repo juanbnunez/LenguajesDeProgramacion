@@ -14,13 +14,13 @@ func rotacion(arreglo *[8]string, movimientos int, direccion int) {
 			arreglo[len(arreglo)-1] = temp
 			movimientos--
 		}
-	} else {
+	} else if direccion == 1 {
 		for movimientos > 0 {
-			temp := arreglo[0] //Primer elemento
-			for i := len(arreglo) - 1; i == 1; i++ {
-				arreglo[i] = arreglo[i-1]
+			temp := arreglo[len(arreglo)-1] // Guardar el último elemento
+			for i := len(arreglo) - 1; i > 0; i-- {
+				arreglo[i] = arreglo[i-1] // Mover los elementos a la derecha
 			}
-			arreglo[0] = temp
+			arreglo[0] = temp // Colocar el último elemento al principio
 			movimientos--
 		}
 	}
@@ -30,6 +30,6 @@ func rotacion(arreglo *[8]string, movimientos int, direccion int) {
 func main() {
 	arreglo := [8]string{"a", "b", "c", "d", "e", "f", "g", "h"}
 	fmt.Println(arreglo)
-	rotacion(&arreglo, 4, 0)
+	rotacion(&arreglo, 3, 0)
 	fmt.Println(arreglo)
 }
