@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16cc19c2-3171-4824-af19-b3e148bf1e16" name="Changes" comment="" />
+    <list default="true" id="16cc19c2-3171-4824-af19-b3e148bf1e16" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tarea1/inventarioTienda/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/Tarea1/inventarioTienda/main.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +48,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/juannunez&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
@@ -56,7 +59,7 @@
       <recent name="$PROJECT_DIR$/contadorCaracteres" />
     </key>
   </component>
-  <component name="RunManager" selected="Go Build.go build main.go main.go">
+  <component name="RunManager" selected="Go Build.go build inventarioTienda">
     <configuration name="go build Repositorio" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Repositorio" />
       <working_directory value="$PROJECT_DIR$" />
@@ -64,6 +67,15 @@
       <package value="Repositorio" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build inventarioTienda" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Repositorio" />
+      <working_directory value="$PROJECT_DIR$/Tarea1/inventarioTienda" />
+      <kind value="PACKAGE" />
+      <package value="inventarioTienda" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/Tarea1/inventarioTienda/main.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build main.go main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -76,11 +88,13 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Go Build.go build inventarioTienda" />
       <item itemvalue="Go Build.go build Repositorio" />
       <item itemvalue="Go Build.go build main.go main.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build inventarioTienda" />
         <item itemvalue="Go Build.go build main.go main.go" />
         <item itemvalue="Go Build.go build Repositorio" />
       </list>

@@ -38,6 +38,10 @@ func Venta(listaCalzado []calzado, modelo string, cantidad int) {
 	}
 }
 
+func AgregarCalzados() {
+
+}
+
 func main() {
 	var listaCalzado [15]calzado
 
