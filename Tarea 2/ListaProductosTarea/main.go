@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sort"
+)
 
 // Struct for representing a product
 type product struct {
@@ -108,6 +111,18 @@ func (p *productInventory) ReplenishLowStockInventory(minimumStockList productIn
 	}
 }
 
+// SortProductsBy order the list by the parameter you want
+func SortProductsBy(p productInventory, keyFunc func(p *product) int, ascending bool) {
+	lessFunc := func(i, j int) bool {
+		if ascending {
+			return keyFunc(&p[i]) < keyFunc(&p[j])
+		}
+		return keyFunc(&p[i]) > keyFunc(&p[j])
+	}
+
+	sort.Slice(p, lessFunc)
+}
+
 // FillData initializes the product inventory with sample data
 func FillData() {
 	products.AddProduct("rice", 15, 2500)
@@ -133,4 +148,8 @@ func main() {
 	// Replenish inventory
 	products.ReplenishLowStockInventory(lowStockProducts)
 	fmt.Println("Updated list:", lowStockProducts)
+
+	// Sort low stock products by price in ascending order
+	SortProductsBy(lowStockProducts, func(p *product) int { return p.price }, true)
+	fmt.Println("Sorted low stock list by price (ascending):", lowStockProducts)
 }
