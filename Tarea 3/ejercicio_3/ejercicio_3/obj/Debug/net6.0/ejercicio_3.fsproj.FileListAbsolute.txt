@@ -1,0 +1,36 @@
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3.exe
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3.deps.json
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3.runtimeconfig.json
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3.pdb
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/FSharp.Core.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.fsproj.AssemblyReference.cache
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.AssemblyInfoInputs.cache
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.AssemblyInfo.fs
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.fsproj.CoreCompileInputs.cache
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.fsproj.CopyComplete
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.dll
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.pdb
+D:/TEC/Lenguajes/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.genruntimeconfig.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/bin/Debug/net6.0/ejercicio_3.pdb
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.fsproj.AssemblyReference.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.AssemblyInfoInputs.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.AssemblyInfo.fs
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.fsproj.CoreCompileInputs.cache
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.dll
+/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_3/ejercicio_3/obj/Debug/net6.0/ejercicio_3.pdb

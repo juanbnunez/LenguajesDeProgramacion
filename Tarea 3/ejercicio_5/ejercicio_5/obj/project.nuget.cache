@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dSk8siQQ6ZJAuQISk8CExgh31mAG6GAx1lIQP8CWQFT6ys05BBfxxwebjozIz7e/uoQTRLs73I8IbCJ2RrOwxA==",
+  "success": true,
+  "projectFilePath": "/Users/juannunez/Library/CloudStorage/OneDrive-EstudiantesITCR/Documentos/TEC/2023/IIS 2023/Lenguajes de programación/Repositorio/Homework#3/ejercicio_5/ejercicio_5/ejercicio_5.fsproj",
+  "expectedPackageFiles": [
+    "/Users/juannunez/.nuget/packages/fsharp.core/7.0.400/fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
